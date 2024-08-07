@@ -2,7 +2,8 @@
     "require": {
         "vlucas/phpdotenv": "^5.5",
         "aws/aws-sdk-php": "^3.173",
-        "phpmailer/phpmailer": "^6.5"
+        "phpmailer/phpmailer": "^6.5",
+        "kabriacid/login-authentication-system"
     },
     "autoload": {
         "psr-4": {
